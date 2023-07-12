@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, Ansible, Jenkins, Java, Linux**
 
-- 📫 How to reach me **chrisjvunnam@gmail.com**
+- 📫 How to reach me --> **chrisjvunnam@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
