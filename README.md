@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://mydevops.hashnode.dev/](https://mydevops.hashnode.dev/)
 
-- 💬 Ask me about **Docker, Kubernetes, Terraform, Java**
+- 💬 Ask me about **Docker, Kubernetes, Terraform, AWS, Ansible, Jenkins, Java, Linux**
 
 - 📫 How to reach me **chrisjvunnam@gmail.com**
 
