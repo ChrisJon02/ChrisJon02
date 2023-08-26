@@ -17,7 +17,6 @@
 <a href="https://twitter.com/chris__jonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chris__jonathan" height="30" width="40" /></a>
 <a href="https://hashnode.com/@chrisjonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@chrisjonathan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chrisjvunnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chrisjvunnam" height="30" width="40" /></a>
-<a href="/https://mydevops.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mydevops.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chris-jonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-jonathan" height="30" width="40" /></a>
 </p>
 
