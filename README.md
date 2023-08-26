@@ -15,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chris__jonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chris__jonathan" height="30" width="40" /></a>
-<a href="https://instagram.com/_chris_av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chris_av" height="30" width="40" /></a>
 <a href="https://hashnode.com/@chrisjonathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@chrisjonathan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chrisjvunnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chrisjvunnam" height="30" width="40" /></a>
 <a href="/https://mydevops.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mydevops.hashnode.dev/" height="30" width="40" /></a>
